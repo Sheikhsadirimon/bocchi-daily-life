@@ -1,0 +1,13 @@
+h3{
+            text-align: center;
+            border: 5px groove pink;
+        }
+        .center{
+            display: block;
+            margin-left: auto;
+            margin-right: auto;
+            width: 30%;
+            border: 10px solid pink;
+            /* padding: 1px; */
+            box-shadow: 2px 2px 2px ;
+        }
