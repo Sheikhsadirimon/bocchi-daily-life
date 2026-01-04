@@ -19,6 +19,12 @@ HTML
 
 CSS
 
+<h2>🚦 Running the Project </h2> 
+
+1. Clone the repository
+
+2. Simply open with live server
+
 <h2>🌟 Live Link </h2> 
 
 https://sheikhsadirimon.github.io/bocchi-daily-life
